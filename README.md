@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanzila Javed</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzila-javed&label=Profile%20views&color=0e75b6&style=flat" alt="tanzila-javed" /> </p>
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **AI Agents**
 
 - 📫 How to reach me **tanzilaj56@gmail.com**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanzilajaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzilajaved" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanzila-javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzilajaved" height="30" width="40" /></a>
 <a href="https://kaggle.com/tanzilajaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanzilajaved" height="30" width="40" /></a>
 </p>
 
